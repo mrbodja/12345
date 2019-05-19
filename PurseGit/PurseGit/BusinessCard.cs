@@ -6,11 +6,7 @@ using System.Threading.Tasks;
 
 namespace PurseGit
 {
-    class Program
+    class BusinessCard
     {
-        static void Main(string[] args)
-        {
-            BusinessCard businessCard = new BusinessCard();
-        }
     }
 }
